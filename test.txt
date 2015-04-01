@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 test-----dont forgive up
 
+<<<<<<< HEAD
 pure
 =======
 test-----dont forgive up
 >>>>>>> parent of cb3aaf0... change
+=======
+pure and calm
+>>>>>>> parent of f076944... Revert "commit text.txt"
